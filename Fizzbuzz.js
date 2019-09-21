@@ -15,6 +15,10 @@ class FizzBuzz {
         break;
     }
   }
+
+  //   static mod(number, base) {
+  //     return number - Math.floor(number / base) * base;
+  //   }
 }
 
 module.exports = FizzBuzz;
