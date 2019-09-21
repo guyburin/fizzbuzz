@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizzbuzz practice #wu2019 by Burin Panchat",
+  "main": "Fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyburin/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guyburin/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/guyburin/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
